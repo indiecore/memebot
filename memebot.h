@@ -1,0 +1,2 @@
+void doMemeSaying();
+char* getMeme();
